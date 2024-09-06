@@ -1,0 +1,40 @@
+_repo: The-fanatics-b-A-comedy-in-three-acts_74309
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Malleson, Miles
+    aliases:
+    - Malieson, Miles
+    - Malleson, William Miles
+    - Mallison, Miles
+    birthdate: 1888
+    deathdate: 1969
+    gutenberg_agent_id: '57435'
+    url: http://www.gutenberg.org/2009/agents/57435
+    wikipedia: https://en.wikipedia.org/wiki/Miles_Malleson
+description: ''
+gutenberg_issued: '2024-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74309'
+language: en
+pgterms:marc904: https://books.google.com/books?id=jXgvAQAAIAAJ
+pgterms:marc905: 20240526094132malleson
+pgterms:marc906: '1927'
+pgterms:marc907: gb
+production_note: Hannah Wilson, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aLondon :$bErnest Benn Limited, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Drama'
+- !lcsh 'England -- Drama'
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: 'The fanatics : $b A comedy in three acts'
+url: http://www.gutenberg.org/ebooks/74309
