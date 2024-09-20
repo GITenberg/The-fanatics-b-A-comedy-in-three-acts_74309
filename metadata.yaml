@@ -1,5 +1,8 @@
 _repo: The-fanatics-b-A-comedy-in-three-acts_74309
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74309-h/images/cover.jpg
 creator:
   author:
     agent_name: Malleson, Miles
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57435
     wikipedia: https://en.wikipedia.org/wiki/Miles_Malleson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74309#The-fanatics-b-A-comedy-in-three-acts
 gutenberg_issued: '2024-08-24'
 gutenberg_type: Text
 identifiers:
